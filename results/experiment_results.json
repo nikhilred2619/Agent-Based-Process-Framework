@@ -1,0 +1,51 @@
+{
+  "experiment": "ABP Framework Evaluation",
+  "n_scenarios": 1000,
+  "n_trials": 30,
+  "rule_based": {
+    "accuracy": {
+      "mean": 0.7519,
+      "std": 0.0144
+    },
+    "f1": {
+      "mean": 0.6545,
+      "std": 0.0131
+    }
+  },
+  "static_bpm": {
+    "accuracy": {
+      "mean": 0.6943,
+      "std": 0.0164
+    },
+    "f1": {
+      "mean": 0.7094,
+      "std": 0.011
+    }
+  },
+  "abp_hybrid": {
+    "accuracy": {
+      "mean": 0.8398,
+      "std": 0.0109
+    },
+    "f1": {
+      "mean": 0.7387,
+      "std": 0.0102
+    }
+  },
+  "mcnemar_vs_rb": {
+    "chi2": 69.316,
+    "p_value": 0.0,
+    "b": 77,
+    "d": 2
+  },
+  "mcnemar_vs_bpm": {
+    "chi2": 82.845,
+    "p_value": 0.0,
+    "b": 223,
+    "d": 67
+  },
+  "improvements": {
+    "vs_rb_pp": 8.79,
+    "vs_bpm_pp": 14.55
+  }
+}
