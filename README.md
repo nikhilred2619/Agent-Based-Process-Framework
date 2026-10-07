@@ -2,7 +2,7 @@
 
 ## A Goal-Driven Agentic AI Framework for Enterprise Business Process Management
 
-ABP is an enterprise-grade intelligent workflow orchestration framework designed to transform traditional rigid business process systems into adaptive, explainable, and policy-driven agentic AI systems.
+ABP is a research and engineering framework for exploring adaptive, explainable, and policy-driven agentic AI workflows in enterprise settings.
 
 Traditional workflow systems are often slow, rigid, manually escalated, and unable to make intelligent context-aware decisions at scale. ABP solves this problem by introducing a formal architecture for dynamic workflow automation and enterprise decision intelligence.
 
@@ -39,11 +39,11 @@ This framework demonstrates that enterprise decisions should not be treated as s
 
 ---
 
-## IEEE Research Paper
+## Research Manuscript
 
 ### ABP: A Goal-Driven Agentic AI Framework for Enterprise Business Process Management
 
-The complete IEEE research paper is included in this repository.
+The accompanying research manuscript is included in this repository.
 
 The research demonstrates:
 
@@ -52,10 +52,10 @@ The research demonstrates:
 - policy-driven automation design  
 - enterprise validation experiments  
 - implementation strategy  
-- production-grade deployment capability  
-- practical enterprise adoption potential
+- deployment-oriented implementation design  
+- enterprise integration scenarios
 
-This proves the framework is not only theoretical but fully implementable for real-world organizations.
+The repository is intended to demonstrate how the framework can be implemented and evaluated in enterprise-oriented scenarios.
 
 ---
 
@@ -96,7 +96,7 @@ This proves the framework is not only theoretical but fully implementable for re
 
 This framework enables organizations to reduce manual approvals, improve compliance safety, accelerate enterprise decision-making, and create scalable intelligent workflow systems for large-scale operations.
 
-It is designed for real enterprise adoption and implementation—not only academic publication.
+It is designed as an implementation-oriented research framework for enterprise scenarios.
 
 The objective is measurable operational efficiency, stronger governance, and explainable AI-driven workflow execution.
 
